@@ -10,6 +10,7 @@ En résumé, nous allons :
 * Charger les données de ventes issues de fichiers plats (CSV) dans Snowflake
 * Créer les modèles dbt : staging, dimensions, faits
 * Implémenter des tests unitaires pour valider la qualité des données
+* Faire des analyses sur Snowflake
 
 ---
 
