@@ -1350,7 +1350,7 @@ WHERE
 ORDER BY ROUND(cp.confiance/sp2.support,2) DESC;
 ```
 * sauvegarder, puis faire **Compile**
-** valider les modifications, puis Merge la branche.
+* valider les modifications, puis Merge la branche.
 
 ---
 
